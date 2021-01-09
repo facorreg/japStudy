@@ -10,8 +10,10 @@
 - 便利「べんり」　→　便利さ　→　praticite
 
 ### なadj + だ
-だ　===　です (plus poli)
-だった === でした
+|temps  | forme polie | だ |
+|-------|-------------|----|
+|present|です         |だ  |
+|passe  |でした       |だった|
 
 ### Forme en て
 | Terminaison | て form |
@@ -88,6 +90,16 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 - 真面目「まじめ」　➞　真面目なら
 - 雨　➞　雨なら
 
+
+### Utilisation des mots interrogatifs en milieu de phrase
+#### Partie de la phrase avec どこ・だれ・いくら・etc + か + fin de la phrase
+- いま、いくら　か　しっています。
+- パリがどこか　しっています。
+- だれが　くるか　わかりません。
+- なに　を　たべるか　わかりません
+> Le か ne vient pas necessairement tout de suite apres le mot interrogatif.
+
+
 ## Comment dire...
 ### Proposition / demander avis
 #### どう（ですか）
@@ -128,6 +140,14 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 - だれも　行かなかった・だれも　こなかった　➞　personne n'est venu
 @todo: Reprendre les corrections ici!
 
+### Multitude de...
+#### たくさん　の　qqch
+- ぼくの計画「けいかく」は、たくさんの　時間　がかかります　➞　Mon projet me prend beaucoup de temps
+
+### Plusieurs
+#### 数「すう」 + qqch
+- 数時間まえ　➞　Il y a plusieures heures
+
 #### 何も + Neg　➞　Rien
 - 私[わたし]　は　何も　しません 　➞　Je ne fais rien
 ### Existence
@@ -143,7 +163,8 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 ### Comparaisons
 #### Aの方「ほう」がBより + adj
 - 京都「きょうと」の方が大阪「おさか」よりも名古屋「なごや」から近い「ちかい」です　➞　Kyouto est plus pres de Nagoya qu'Osaka
-
+- においのほうが、あじより　わるい ➞　L'odeur est pire que le gout (lit.).
+- あじのほうが、においより、いい ➞　Le gout est meilleur que l'odeur (lit.).
 #### BよりAの方「ほう」が + adjective
 - 昨日「きのう」より今日「きょう」の方が寒い「さむい」 　➞　Il fait plus froid aujourd'hui qu'hier
 
@@ -174,6 +195,21 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 | 50% | まあまあ |
 | 30% | ちょっと・すこし・あまり + neg |
 | 0% | ぜんぜｎ + neg |
+
+### Organisation du recit
+
+#### premierement
+- ➞　まず
+#### et
+- ➞　Nom + とNom
+- ➞　てadj　・　てverbe
+#### ensuite
+- ➞　そして
+- ➞　それから
+#### parceque
+- ➞　なぜなら
+#### finalement
+- ➞　ついに
 
 ### Consequences / causes
 #### VERBE + から　➞　parce que
@@ -271,6 +307,19 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 ##### な adj / NOM　➞　（なの）かな
 - あの人は有名「ゆうめい」（なの）かな　➞　Je me demande si cette personne est connue.
 
+### Priorites
+- 竿所に「さいしょに」すること　は　➞ La premiere chose que je ferai
+
+### Sortir
+#### Quelque part
+-　➞　qq1 が 出る「でる」
+#### Quelque chose
+- ➞　qqch を　出す「だす」
+> Bien noter quand est-ce qu'on parle d'une personne et d'une chose.
+
+### Un endroit / ville qui s'appelle...
+#### Nom + と言う + 所「ところ」
+- 日本の南の、「ふくおか」　と　言う　所 　➞　Un endroit dans le sud du japon qui s'appelle "Fukuaka".
 ## Particules et constructions liees a elles
 ### が
 #### NOM + が　好き「すき」/嫌い「きらい」　➞　aimer / ne pas aimer
@@ -312,24 +361,9 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 #### lieu + に　➞　 deplacement
 - 友達[ともだち]と　バー　に　行きます
 
-## ボキャブラリー
-- 区「く」→ Arrondissement
-- フランス　出身「しゅっしん」（です）→　"Je viens de France"
-- どこ出身でか　➞　D'ou viens tu?
-- １ど/かい　２ど/かい　３ど/かい　→　Une fois, deux fois, trois fois...
-- 彼氏「かれし」　→　petit-ami
-- 彼女「かのじょ」petite-amie
-- 甘い 　→　sucre
-- 苦い　→　amer
-- 辛い　→　sale / piquant / epice
-- なんか　→　genre
-
-## Phrases toutes faites
-- 明日[あした]　ひま　➞　Es-tu disponible demain ?
-- しごとどうですか 　➞　 Comment ca se passe au travail ?
-- 英語「えいご」ができますか　➞　Parlez-vous Anglais ?
-- 学校「がっこう」で１ヶ月「かげつ」すごします　➞　passer un mois a l'ecole
-- 学生「がくせい」は　ばかだった　➞ les eleves etaient des idiots
+## Trucs a part
+### "Ca sera au test"
+- テストに でるよ
 
 ## Compteurs
 #### Default
