@@ -1,8 +1,14 @@
 
 ## Grammaire
-### Nominalisation d'un verbe　→　Base verbale + もの
-- 食べもの　→　de la nourriture
-- 飲みもの「のみもの」➞ de la boisson
+### Nominalisation d'un verbe　→　Base verbale + 物「もの」
+- 食べる　➞　食べ物　➞　de la nourriture
+- 飲む「のむ」 ➞　飲み物　➞ de la boisson
+- 買う「かう」➞　買い物　➞　shopping / des trucs a acheter
+
+### Nominalisation d'un verbe　→　Base verbale + こと
+- する　➞　すること
+- 来る  ➞　来ること
+exemple: たべことが好！ ➞　J'aime manger
 
 ### Adjectifs substantives
 #### い・な adj　➞　rempalcer le い final par さ
