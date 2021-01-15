@@ -310,11 +310,14 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 - 食べまくる　➞　Je ne fais que manger
 - 寝まくる「ねまくる」　➞　Je dors beaucoup
 
+##### VERBE + くった
+- ググりくった　➞　Je googlais beaucoup
+
 ##### な adj / NOM　➞　（なの）かな
 - あの人は有名「ゆうめい」（なの）かな　➞　Je me demande si cette personne est connue.
 
 ### Priorites
-- 竿所に「さいしょに」すること　は　➞ La premiere chose que je ferai
+- 最初に「さいしょに」すること　は　➞ La premiere chose que je ferai
 
 ### Sortir
 #### Quelque part
@@ -360,7 +363,7 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 
 ### で
 #### lieu + で　➞　 action sans deplacement
-- 友達[ともだち]と　バー　で　のみませ
+- 友達[ともだち]と　バー　で　のみません
 - どこで　音楽「おんがく」　を　聞きますか
 
 ### に
