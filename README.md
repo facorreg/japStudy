@@ -1,3 +1,141 @@
+## Conjugaison
+
+### 一段
+
+|                                           | 食べる   |                | positif              | negatif |
+| ----------------------------------------- | -------- | -------------- | -------------------- | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel | 食べる         | 食べない             |
+|                                           | formel   | 食べます       | 食べません           |
+|                                           |
+| <td rowspan=2>Present progressif</td>     | informel | 食べている     | n/a                  |
+|                                           | formel   | 食べています   | 食べていません       |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | 食べた         | 食べなかった         |
+|                                           | formel   | 食べました     | 食べませんでした     |
+|                                           |
+| <td rowspan=2>Passe de progressif</td>    | informel | 食べていた     | n/a                  |
+|                                           | formel   | 食べていました | 食べていませんでした |
+|                                           |
+| <td rowspan=2>Imperatif</td>              | informel | 食べろ         | 食べろな             |
+|                                           | formel   | 食べてください | 食べないでください   |
+|                                           |
+| <td rowspan=2>Conditionel えば</td>       | informel | 食べれば       | 食べなければ         |
+|                                           | formel   | n/a            | n/a                  |
+|                                           |
+| <td rowspan=2>Conditionel たら</td>       | informel | 食べたら       | 食べなかったら       |
+|                                           | formel   | 食べましたら   | たべませんでしたら   |
+
+### 五段
+
+|                                           | 飲む「のむ」 |                | positif              | negatif |
+| ----------------------------------------- | ------------ | -------------- | -------------------- | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel     | 飲む           | 飲まない             |
+|                                           | formel       | 飲みます       | 　飲みません         |
+|                                           |
+| <td rowspan=2>Present progressif</td>     | informel     | 飲んでいる     | n/a                  |
+|                                           | formel       | 飲んでいます   | 飲んでいません       |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel     | 飲んだ         | 飲まなかった         |
+|                                           | formel       | 飲みました     | 飲みませんでした     |
+|                                           |
+| <td rowspan=2>Passe de progressif</td>    | informel     | 飲んでいた     | n/a                  |
+|                                           | formel       | 飲んでいました | 飲んでいませんでした |
+|                                           |
+| <td rowspan=2>Imperatif</td>              | informel     | 飲め           | 飲むな               |
+|                                           | formel       | 飲んでください | 飲まないでください   |
+|                                           |
+| <td rowspan=2>Conditionel えば</td>       | informel     | 飲めば         | 飲まなければ         |
+|                                           | formel       | n/a            | n/a                  |
+|                                           |
+| <td rowspan=2>Conditionel たら</td>       | informel     | 飲んだら       | 飲まなかったら       |
+|                                           | formel       | 飲みましたら   | 飲みませんでしたら   |
+
+### Irreguliers
+
+|                                           | する     |              | positif          | negatif |
+| ----------------------------------------- | -------- | ------------ | ---------------- | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel | する         | しない           |
+|                                           | formel   | します       | 　しません       |
+|                                           |
+| <td rowspan=2>Present progressif</td>     | informel | n/a          | n/a              |
+|                                           | formel   | しています   | していません     |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | した         | しなかった       |
+|                                           | formel   | しました     | しませんでした   |
+|                                           |
+| <td rowspan=2>Passe de progressif</td>    | informel | 　 n/a       | n/a              |
+|                                           | formel   | しています   | していません     |
+|                                           |
+| <td rowspan=2>Imperatif</td>              | informel | しろ         | するな           |
+|                                           | formel   | してください | しないでください |
+|                                           |
+| <td rowspan=2>Conditionel たら</td>       | informel | したら       | しなかったら     |
+|                                           | formel   | しましたら   | しませんでしたら |
+
+|                                           | 来る     |                          | positif                      | negatif |
+| ----------------------------------------- | -------- | ------------------------ | ---------------------------- | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel | 来る                     | 来ない「こない」             |
+|                                           | formel   | 来ます「きます」         | 　来ません「きません」       |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | 来た「きた」             | 来なかった「こなかった」     |
+|                                           | formel   | 来ました「きました」     | 来ません「きません」でした   |
+|                                           |
+| <td rowspan=2>Imperatif</td>              | informel | 来い「こい」             | 来るな「くるな」             |
+|                                           | formel   | 来て「きて」ください     | 来ないで「こないで」ください |
+|                                           |
+| <td rowspan=2>Conditionel たら</td>       | informel | 来たら「きたら」         | 来なかったら「こなかったら」 |
+|                                           | formel   | 来ましたら「きましたら」 | 来ません「きません」でしたら |
+
+### い adj
+
+|                                           | 美味しい「おいしい」 |                  | positif                  | negatif |
+| ----------------------------------------- | -------------------- | ---------------- | ------------------------ | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel             | 美味しい         | 美味しくない             |
+|                                           | formel               | 美味しいです     | 　美味しくありません     |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel             | 美味しかった     | 美味しくなかった         |
+|                                           | formel               | 美味しかったです | 美味しくありませんでした |
+|                                           |
+| <td rowspan=2>Conditionel 　えば</td>     | informel             | 美味しければ     | 美味しくなければ         |
+|                                           | formel               | n/a              | n/a                      |
+
+### な adj
+
+|                                           | 元気「げんき」 |                | positif                  | negatif |
+| ----------------------------------------- | -------------- | -------------- | ------------------------ | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel       | 元気（だ）     | 元気じゃない             |
+|                                           | formel         | 元気です       | 　元気ではありません     |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel       | 元気だった     | 元気じゃなかった         |
+|                                           | formel         | 元気でした     | 元気ではありませんでした |
+|                                           |
+| <td rowspan=2>Conditionel 　えば</td>     | informel       | 元気なら（ば） | 元気なければ             |
+|                                           | formel         | n/a            | n/a                      |
+
+|                                           | です     |        | positif              | negatif |
+| ----------------------------------------- | -------- | ------ | -------------------- | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel | だ     | ではない             |
+|                                           | formel   | です   | 　ではありません     |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | だった | 　ではなかった       |
+|                                           | formel   | でした | ではありませんでした |
+
+|                                           | ある     |            | positif          | negatif |
+| ----------------------------------------- | -------- | ---------- | ---------------- | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel | ある       | ない             |
+|                                           | formel   | あります   | 　ありません     |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | あった     | 　なかった       |
+|                                           | formel   | ありました | ありませんでした |
+
+|                                           | いる     |          | positif        | negatif |
+| ----------------------------------------- | -------- | -------- | -------------- | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel | いる     | いない         |
+|                                           | formel   | います   | 　いません     |
+|                                           |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | いった   | 　いなかった   |
+|                                           | formel   | いました | いませんでした |
+
 ## Grammaire
 
 ### Nominalisation d'un verbe 　 → 　 Base verbale + 物「もの」
@@ -73,6 +211,10 @@
 #### Il est interdit de...　 ➞ 　 V て + は いけない
 
 - ここでボールで　遊んで「あそんで」は　いけない　 ➞ 　 Il est interdit de jouer a la balle ici
+
+#### Je n'ai pas encore 　 ➞ 　ｖて + いません
+
+- プロジェクトをまだ　はじめて　いません　 ➞ 　 Je n'ai pas encore commence le projet
 
 ### La forme て des adjectifs
 
