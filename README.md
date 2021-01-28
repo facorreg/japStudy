@@ -157,13 +157,6 @@
 - 早い「はやい」　 ➞ 　早さ　 ➞ 　 Vitesse / rapidite
 - 便利「べんり」　 → 　便利さ　 → 　 praticite
 
-### な adj + だ
-
-| temps   | forme polie | だ     |
-| ------- | ----------- | ------ |
-| present | です        | だ     |
-| passe   | でした      | だった |
-
 ### Forme en て
 
 | Terminaison | て form |
@@ -277,6 +270,13 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 - だれが　くるか　わかりません。
 - なに　を　たべるか　わかりません
   > Le か ne vient pas necessairement tout de suite apres le mot interrogatif.
+
+## Contractions
+
+### V + はじめる
+
+- 食べます + はじめる　 ➞ 　食べはじめます
+- 見ました + はじめる　 ➞ 　みはじめました
 
 ## Comment dire...
 
@@ -454,6 +454,10 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 
 #### qqch の　せいで ➞ a cause de
 
+#### qqch + で ➞ "la raison" de quelque chose
+
+-ストライキで、　 RER が　おくれた　 ➞ 　 Le RER etait en retard a cause des greves
+
 ### Conditions
 
 #### ～なら　 ➞ 　 Si ...
@@ -497,11 +501,26 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 
 - 僕「ぼく」以外「いがい」はみんな知って「しって」たんだ　 ➞ 　 Tout le monde etait a courant a part moi
 
+#### Seulement
+
+##### だけ
+
+- それだけのために勉強「べんきょう」したくない　 ➞ 　 Je ne voulais pas etudier juste pour ca.
+
 ### Devoir
+
+#### ｖ+ない + ければ　なりません、ならない（＝いけません、いけない）
 
 #### ~なきゃ
 
-- 頑張ら**なきゃ**「がんばらなきゃ」　 ➞ 　 Je dois faire de mon mieux !
+> todo: verifier les exemples
+> eg: 頑張る「がんばる」
+
+- 頑張らなければ　なりません
+- 頑張らなければ　ならない
+- 頑張らない　いけません
+- 頑張らない　いけない
+- 頑張ら**なきゃ** ➞ 　 Je dois faire de mon mieux !
   > Note
   >
   > - ~なきゃ peut etre utilise pour dire "sinon"
@@ -674,6 +693,16 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 - テストに でるよ
 
 ## Compteurs
+
+### Nombre ordinaux
+
+#### 第「だい」(informel)
+
+- 第 1 回　 ➞ 　 premiere fois
+
+#### 目「め」(formel)
+
+- 1 回目　 ➞ 　 premiere fois
 
 #### Default
 
