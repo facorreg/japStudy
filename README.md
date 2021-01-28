@@ -30,7 +30,7 @@
 |                                           | 飲む「のむ」 |                | positif              | negatif |
 | ----------------------------------------- | ------------ | -------------- | -------------------- | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel     | 飲む           | 飲まない             |
-|                                           | formel       | 飲みます       | 　飲みません         |
+|                                           | formel       | 飲みます       | 飲みません           |
 |                                           |
 | <td rowspan=2>Present progressif</td>     | informel     | 飲んでいる     | n/a                  |
 |                                           | formel       | 飲んでいます   | 飲んでいません       |
@@ -55,7 +55,7 @@
 |                                           | する     |              | positif          | negatif |
 | ----------------------------------------- | -------- | ------------ | ---------------- | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel | する         | しない           |
-|                                           | formel   | します       | 　しません       |
+|                                           | formel   | します       | しません         |
 |                                           |
 | <td rowspan=2>Present progressif</td>     | informel | n/a          | n/a              |
 |                                           | formel   | しています   | していません     |
@@ -75,7 +75,7 @@
 |                                           | 来る     |                          | positif                      | negatif |
 | ----------------------------------------- | -------- | ------------------------ | ---------------------------- | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel | 来る                     | 来ない「こない」             |
-|                                           | formel   | 来ます「きます」         | 　来ません「きません」       |
+|                                           | formel   | 来ます「きます」         | 来ません「きません」         |
 |                                           |
 | <td rowspan=2>Passe de l'indicatif</td>   | informel | 来た「きた」             | 来なかった「こなかった」     |
 |                                           | formel   | 来ました「きました」     | 来ません「きません」でした   |
@@ -117,25 +117,25 @@
 |                                           | です     |        | positif              | negatif |
 | ----------------------------------------- | -------- | ------ | -------------------- | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel | だ     | ではない             |
-|                                           | formel   | です   | 　ではありません     |
+|                                           | formel   | です   | ではありません       |
 |                                           |
-| <td rowspan=2>Passe de l'indicatif</td>   | informel | だった | 　ではなかった       |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | だった | ではなかった         |
 |                                           | formel   | でした | ではありませんでした |
 
 |                                           | ある     |            | positif          | negatif |
 | ----------------------------------------- | -------- | ---------- | ---------------- | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel | ある       | ない             |
-|                                           | formel   | あります   | 　ありません     |
+|                                           | formel   | あります   | ありません       |
 |                                           |
-| <td rowspan=2>Passe de l'indicatif</td>   | informel | あった     | 　なかった       |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | あった     | なかった         |
 |                                           | formel   | ありました | ありませんでした |
 
 |                                           | いる     |          | positif        | negatif |
 | ----------------------------------------- | -------- | -------- | -------------- | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel | いる     | いない         |
-|                                           | formel   | います   | 　いません     |
+|                                           | formel   | います   | いません       |
 |                                           |
-| <td rowspan=2>Passe de l'indicatif</td>   | informel | いった   | 　いなかった   |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | いった   | いなかった     |
 |                                           | formel   | いました | いませんでした |
 
 ## Grammaire
