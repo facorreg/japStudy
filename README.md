@@ -114,13 +114,13 @@
 
 ### です、ある、いる
 
-|                                           | です     |        | positif              | negatif |
-| ----------------------------------------- | -------- | ------ | -------------------- | ------- |
-| <td rowspan=2>Present de l'indicatif</td> | informel | だ     | ではない             |
-|                                           | formel   | です   | ではありません       |
+|                                           | です     |        | positif                     | negatif |
+| ----------------------------------------- | -------- | ------ | --------------------------- | ------- |
+| <td rowspan=2>Present de l'indicatif</td> | informel | だ     | ではない / じゃない         |
+|                                           | formel   | です   | ではありません              |
 |                                           |
-| <td rowspan=2>Passe de l'indicatif</td>   | informel | だった | ではなかった         |
-|                                           | formel   | でした | ではありませんでした |
+| <td rowspan=2>Passe de l'indicatif</td>   | informel | だった | ではなかった / じゃなかった |
+|                                           | formel   | でした | ではありませんでした        |
 
 |                                           | ある     |            | positif          | negatif |
 | ----------------------------------------- | -------- | ---------- | ---------------- | ------- |
