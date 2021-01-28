@@ -112,6 +112,8 @@
 | <td rowspan=2>Conditionel 　えば</td>     | informel       | 元気なら（ば） | 元気なければ             |
 |                                           | formel         | n/a            | n/a                      |
 
+### です、ある、いる
+
 |                                           | です     |        | positif              | negatif |
 | ----------------------------------------- | -------- | ------ | -------------------- | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel | だ     | ではない             |
