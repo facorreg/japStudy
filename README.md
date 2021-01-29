@@ -511,7 +511,9 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 
 ### Devoir
 
-#### ｖ+ない + ければ　なりません、ならない（＝いけません、いけない）
+#### ｖ+ない + ければ　なりません、ならない、いけません、いけない
+
+(note: ない form sans le i => な)
 
 #### ~なきゃ
 
@@ -520,9 +522,10 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 
 - 頑張らなければ　なりません
 - 頑張らなければ　ならない
-- 頑張らない　いけません
-- 頑張らない　いけない
-- 頑張ら**なきゃ** ➞ 　 Je dois faire de mon mieux !
+- 頑張らなければ　いけません
+- 頑張らなければ　いけない
+- 頑張ら**なきゃ**　なりません、ならない、いけません、いけない -なきゃ　 seul peut se suffir a lui-meme
+- 頑張ら**なきゃ** ➞ 　 Je. dois faire de mon mieux !
   > Note
   >
   > - ~なきゃ peut etre utilise pour dire "sinon"
@@ -706,7 +709,7 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 
 - 1 回目　 ➞ 　 premiere fois
 
-#### Default
+#### Defaut
 
 - 一つ　 ➞ 　ひとつ
 - 二つ　 ➞ 　ふたつ
@@ -717,14 +720,14 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 - 七つ　 ➞ 　ななつ
 - 八つ　 ➞ 　やっつ
 - 九つ　 ➞ 　ここのつ
-- 十　 ➞ 　とう
+- 十　 ➞ 　とお
 - Combien 　 ➞ 　いくつ
 
 #### Personnes
 
-- 一人　 ➞ 　ひとつ
+- 一人　 ➞ 　ひとり
 - 二人　 ➞ 　ふたり
-- 三人　 ➞ さんんいん
+- 三人　 ➞ さんにん
 - 四人　 ➞ 　よにん
   。。。
 - 何人　 ➞ 　なんにん
@@ -784,7 +787,6 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 - 2 時　 ➞ 　にじ
   。。。
 - 4 時　 ➞**よ**じ
-- 7 時　 ➞**しち**じ
 - 9 時　 ➞**く**じ
 
 #### Jours
