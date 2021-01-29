@@ -13,7 +13,7 @@
 | <td rowspan=2>Passe de l'indicatif</td>   | informel | 食べた         | 食べなかった         |
 |                                           | formel   | 食べました     | 食べませんでした     |
 |                                           |
-| <td rowspan=2>Passe de progressif</td>    | informel | 食べていた     | n/a                  |
+| <td rowspan=2>Passe progressif</td>       | informel | 食べていた     | n/a                  |
 |                                           | formel   | 食べていました | 食べていませんでした |
 |                                           |
 | <td rowspan=2>Imperatif</td>              | informel | 食べろ         | 食べろな             |
@@ -38,7 +38,7 @@
 | <td rowspan=2>Passe de l'indicatif</td>   | informel     | 飲んだ         | 飲まなかった         |
 |                                           | formel       | 飲みました     | 飲みませんでした     |
 |                                           |
-| <td rowspan=2>Passe de progressif</td>    | informel     | 飲んでいた     | n/a                  |
+| <td rowspan=2>Passe progressif</td>       | informel     | 飲んでいた     | n/a                  |
 |                                           | formel       | 飲んでいました | 飲んでいませんでした |
 |                                           |
 | <td rowspan=2>Imperatif</td>              | informel     | 飲め           | 飲むな               |
@@ -63,7 +63,7 @@
 | <td rowspan=2>Passe de l'indicatif</td>   | informel | した         | しなかった       |
 |                                           | formel   | しました     | しませんでした   |
 |                                           |
-| <td rowspan=2>Passe de progressif</td>    | informel | 　 n/a       | n/a              |
+| <td rowspan=2>Passe progressif</td>       | informel | 　 n/a       | n/a              |
 |                                           | formel   | しています   | していません     |
 |                                           |
 | <td rowspan=2>Imperatif</td>              | informel | しろ         | するな           |
@@ -91,7 +91,7 @@
 |                                           | 美味しい「おいしい」 |                  | positif                  | negatif |
 | ----------------------------------------- | -------------------- | ---------------- | ------------------------ | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel             | 美味しい         | 美味しくない             |
-|                                           | formel               | 美味しいです     | 　美味しくありません     |
+|                                           | formel               | 美味しいです     | 美味しくありません       |
 |                                           |
 | <td rowspan=2>Passe de l'indicatif</td>   | informel             | 美味しかった     | 美味しくなかった         |
 |                                           | formel               | 美味しかったです | 美味しくありませんでした |
@@ -104,7 +104,7 @@
 |                                           | 元気「げんき」 |                | positif                  | negatif |
 | ----------------------------------------- | -------------- | -------------- | ------------------------ | ------- |
 | <td rowspan=2>Present de l'indicatif</td> | informel       | 元気（だ）     | 元気じゃない             |
-|                                           | formel         | 元気です       | 　元気ではありません     |
+|                                           | formel         | 元気です       | 元気ではありません       |
 |                                           |
 | <td rowspan=2>Passe de l'indicatif</td>   | informel       | 元気だった     | 元気じゃなかった         |
 |                                           | formel         | 元気でした     | 元気ではありませんでした |
