@@ -229,7 +229,7 @@ Permet de "lister" les adjectifs, afin d'eviter les repetitions (le dernier elem
 > ～で　+　も　 ➞ 　 Meme si
 
 - 元気　 ➞ 　げんきで
-- パリーグは寒くて「さむくて」、綺麗で「きれい」、にぎやかです
+- パリは寒くて「さむくて」、綺麗で「きれい」、にぎやかです
   > @todo
   > extraire les "meme si" dans une categorie a part
 
